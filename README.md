@@ -7,7 +7,7 @@
 ## Features
 - Investment Decision Engine with user inputs, dynamic investor profile, example allocation, and reset state
 - Weekly stock screener using built-in fictional/example data and category filters
-- Investor IQ quiz with score and restart state
+- Investment Decision Flashcards with interactive flip, previous, next, and restart controls
 - Demo newsletter subscription confirmation
 - Contact/feedback form that prevents refresh and displays a confirmation
 - Responsive mobile navigation
